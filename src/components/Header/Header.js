@@ -18,7 +18,7 @@ const Header = () => {
         </button>
       </div>
 
-      {/* <IpDetail /> */}
+      <IpDetail />
     </header>
   );
 };
