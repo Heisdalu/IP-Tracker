@@ -16,6 +16,7 @@
   text-align: center;
   margin-bottom: 1rem;
   color: #ffffff;
+  font-weight: 500;
 }
 
 .header_search_box{
@@ -31,6 +32,8 @@
     padding: 1rem 1.5rem;
     outline: none;
     font-size: 1rem;
+    font-weight: 400;
+    color: #000000;
     
 }
 
@@ -39,4 +42,16 @@
     background-color: black;
     outline: none;
     border: none;
+    cursor: pointer;
+}
+
+@media screen and (min-width:768px) {
+  .header{
+    height: 250px;
+  }
+}
+@media screen and (min-width:1068px) {
+  .header{
+    height: 220px;
+  }
 }
