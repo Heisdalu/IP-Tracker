@@ -25,6 +25,7 @@
     width: 100%;
     border-radius: 15px;
     overflow: hidden;
+    background-color: #ffffff;
 }
 
 .header_search__input {
@@ -34,6 +35,8 @@
     font-size: 1rem;
     font-weight: 400;
     color: #000000;
+    border: none;
+    background-color: #ffffff;
     
 }
 
