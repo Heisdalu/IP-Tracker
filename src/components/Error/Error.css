@@ -1,0 +1,22 @@
+.error {
+  border: 1px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.error_pic {
+  height: 200px;
+  width: 200px;
+  margin-top: 9rem;
+}
+
+
+@media screen and (min-width:500px){
+.error_pic{
+    height: auto;
+    width: auto;
+    margin-top: 0;
+}    
+}
