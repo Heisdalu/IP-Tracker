@@ -1,8 +1,8 @@
-# Country View
+# IP Tracker
 
 ## Table of contents
 
-- [Country View](#country-view)
+- [IP Tracker](#ip-tracker)
   - [Table of contents](#table-of-contents)
     - [The challenge](#the-challenge)
     - [Links](#links)
@@ -13,11 +13,11 @@
 
 Users should be able to:
 
-- View vital information about countries
+- Search Ip addresses and view vital inforamtions of searched Ip addresses respectively.
 
 ### Links
 
-- Live Site URL: [click here](https://daalu-country-view.netlify.app/)
+- Live Site URL: [click here]()
 
 ### Built with
 
