@@ -37,6 +37,10 @@
     
 }
 
+.header_search__input::placeholder {
+  font-size: 0.7rem;
+}
+
 .search_ip{
     padding: 1.2rem;
     background-color: black;
@@ -49,9 +53,16 @@
   .header{
     height: 250px;
   }
+  .header_search__input::placeholder {
+  font-size: 1rem;
+}
+
 }
 @media screen and (min-width:1068px) {
   .header{
     height: 220px;
+  }
+  .header__title {
+    font-size: 1.5rem;
   }
 }
